@@ -14,5 +14,6 @@ Classic Snake game built with Python and Pygame.
 ![Pygame](https://img.shields.io/badge/Pygame-2A2A2A?logo=pygame&logoColor=white)
 
 ## How to run
+```bash
 source venv/bin/activate
 python main.py
